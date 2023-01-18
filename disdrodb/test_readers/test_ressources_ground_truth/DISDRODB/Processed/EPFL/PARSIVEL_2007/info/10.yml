@@ -1,0 +1,46 @@
+inferred_sampling_interval: !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - i4
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  CgAAAA==
+n_timesteps: 25
+n_minutes: !!python/object/apply:numpy.core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  qqqqqqqqEEA=
+n_hours: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  cRzHcRzHsT8=
+n_days: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  QXsJ7SW0Zz8=
+years_coverage: '2007'
+start_time: '2007-07-23T14:15:30'
+end_time: '2007-07-23T14:19:30'
